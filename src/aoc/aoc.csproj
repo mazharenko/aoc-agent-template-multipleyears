@@ -8,11 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="mazharenko.AocAgent" Version="1.0.4" />
+    <PackageReference Include="mazharenko.AocAgent" Version="1.1.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Year2023\" />
-  </ItemGroup>
- 
 </Project>
