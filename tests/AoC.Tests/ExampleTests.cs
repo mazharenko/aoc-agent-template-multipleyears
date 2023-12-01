@@ -2,5 +2,6 @@ using mazharenko.AoCAgent.Generator;
 
 namespace AoC.Tests;
 
-[GenerateTests]
+[TestFixture]
+[GenerateExampleTests]
 internal partial class ExampleTests;
