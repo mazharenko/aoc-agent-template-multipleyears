@@ -4,7 +4,4 @@ namespace AoC.Tests;
 
 [TestFixture]
 [GenerateExampleTests]
-internal partial class ExampleTests
-{
-    
-}
+internal partial class ExampleTests;
